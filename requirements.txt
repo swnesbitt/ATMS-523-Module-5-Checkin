@@ -1,0 +1,6 @@
+jupyterlab
+numpy
+pandas
+scikit-learn>=1.3
+matplotlib
+ipywidgets
